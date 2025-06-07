@@ -5,7 +5,7 @@
 # Author: Thomas L.C. van Houten
 # Date Created: 2023-05-07
 # Last Modified: 2023-06-13
-# Version: 0.0.7
+# Version: 0.0.6
 # Tested on: Linux Mint 21.1 Vera, Kernel 5.15.0-73-generic x86_64, Desktop: Xfce 4.16.0, CPU: Intel Core i5-9400F, GPU: AMD Radeon RX 6600 XT, Driver: amdgpu, OpenGL: 4.6 Mesa 22.2.5, RAM: 31.29 GiB
 
 # Additional Notes:
