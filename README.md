@@ -163,7 +163,7 @@ Check all required packages are installed.
 **Thomas L.C. van Houten**  
 - Created: 2023-05-07  
 - Last Modified: 2023-06-13  
-- Version: 0.0.7  
+- Version: 0.0.6  
 
 ---
 
